@@ -24,7 +24,7 @@
 
 | Ítem del Formulario | Enlace / Evidencia Directa | Estado |
 | :--- | :--- | :--- |
-| **1. Enlace de su repositorio de Curso \*** | `https://github.com/cajielos08/Estadistica-Espacial-QGIS` | ✅ Completado |
+| **1. Enlace de su repositorio de Curso \*** | `https://github.com/xhimuelo6/Estadistica-Espacial-QGIS` | ✅ Completado |
 | **2. Enlace de Evidencia de Instalación de QGis \*** | [Ver Evidencia de Instalación (PNG)](evidencias/01_instalacion_qgis/evidencia_instalacion_qgis.png) | ✅ Completado |
 | **3. Evidencia de una capa Raster en Qgis \*** | [Ver Evidencia de Capa Raster (PNG)](evidencias/02_capa_raster/evidencia_capa_raster_qgis.png) | ✅ Completado |
 | **4. Evidencia de una capa Vectorial en Qgis \*** | [Ver Evidencia de Capa Vectorial (PNG)](evidencias/03_capa_vectorial/evidencia_capa_vectorial_qgis.png) | ✅ Completado |
